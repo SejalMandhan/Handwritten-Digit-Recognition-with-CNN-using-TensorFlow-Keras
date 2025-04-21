@@ -83,3 +83,4 @@ Includes actual vs. predicted digit display
 Predicted: 7 | Actual: 7
 Displays the digit image along with the model's prediction and ground truth label.
 
+🙋‍♂️ Author Sejal Mandhan LinkedIn (www.linkedin.com/in/sejal-mandhan-a8b8302a6)
