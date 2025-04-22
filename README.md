@@ -41,7 +41,7 @@ Name: MNIST Handwritten Digits
   python
   from tensorflow.keras.datasets import mnist
 
-  ---
+---
   
 ## 🛠️ Technologies Used
 Python 🐍
@@ -109,15 +109,6 @@ jupyter notebook "Handwritten Digit Recognition with CNN using TensorFlow Keras.
 ## Run All Cells
 
 The notebook trains the model and shows test predictions.
-
-## 🎯 Features
-Trains a CNN from scratch using Keras
-
-Predicts digits from random MNIST test samples
-
-Visual output with matplotlib
-
-Includes actual vs. predicted digit display
 
 ## 📈 Example Output
 
